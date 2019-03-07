@@ -1,3 +1,5 @@
+% 利用掩膜图像去水印
+
 clc
 close all
 clear all
